@@ -8,7 +8,8 @@ In this repo you can find the details for Session 2 of <b>HACKMAS Android Editio
 
 ### Files
 You can find the related files for a basic arithmetic calculator app, my first app, in this repository.
-
 </div>
 
+### Connect with me
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/ufraaan/).
+
