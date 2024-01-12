@@ -11,6 +11,4 @@ You can find the related files for a basic arithmetic calculator app, my first a
 
 </div>
 
-<div class="linkedin">
-  [LinkedIn Profile](https://www.linkedin.com/in/ufraaan/)  
-</div>
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/ufraaan/).
