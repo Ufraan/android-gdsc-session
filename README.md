@@ -10,3 +10,7 @@ In this repo you can find the details for Session 2 of <b>HACKMAS Android Editio
 You can find the related files for a basic arithmetic calculator app, my first app, in this repository.
 
 </div>
+
+<div class="linkedin">
+  [LinkedIn Profile](https://www.linkedin.com/in/ufraaan/)  
+</div>
