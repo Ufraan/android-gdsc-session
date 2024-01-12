@@ -1,6 +1,6 @@
 # HACKMAS Android Edition - Session 2
 
-<div style="text-align: left;">
+<div style="text-align: right;">
 
 ![Android Session 2](android_ses2.jpeg)
 
